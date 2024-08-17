@@ -19,3 +19,5 @@ The models on VRM of Runa Inoue are released on GitHub under MIT License and on 
 | Commercial usage           | Allowed         | Not Allowed        |
 | Open-source/proprietary    | Open-source     | Proprietary        |
 
+# Visitor States
+![:runa-inoue-vrm](https://count.getloli.com/get/@:runa-inoue-vrm)
