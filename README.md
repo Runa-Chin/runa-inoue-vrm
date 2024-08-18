@@ -14,7 +14,7 @@ The models on VRM of Runa Inoue are released on GitHub under MIT License and on 
 | Involved on your projects  | Allowed         | Not Allowed        |
 | Impersonating models       | Not Allowed     | Not Allowed        |
 | Educational purposes       | Allowed         | Allowed            |
-| Downloadable               | Allowed         | Allowed            |
+| Downloadable               | Allowed         | Not Allowed        |
 | Covert into another format | Allowed         | Not Allowed        |
 | Commercial usage           | Allowed         | Not Allowed        |
 | Open-source/proprietary    | Open-source     | Proprietary        |
